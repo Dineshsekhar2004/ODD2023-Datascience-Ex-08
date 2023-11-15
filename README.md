@@ -18,8 +18,8 @@ Apply data visualization techniques to identify the patterns of the data.
 
 ## CODE
 ```
-Developed by : Deepika S
-RegisterNUmber : 212222230028
+Developed by : Dinesh.S
+RegisterNUmber : 212222230033
 ```
 ### inserting libraries
 ```
